@@ -1,0 +1,67 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #6bcc26;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #25d028;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+ 
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    width: 100%;
+    bottom: 0;
+}
+
+.project {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+}
+.project p{
+    color: rgb(232, 97, 12);
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+#projects {
+    background-color: #e6e6e6;
+    color: #6e1dc4;
+}
+#skills{
+    color: rgb(206, 16, 231);
+   
+}
+#skills h2{
+    color: brown;
+}
+

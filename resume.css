@@ -1,0 +1,36 @@
+*{
+    background-color: bisque;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 2rem;
+    border:3px solid rgb(11, 11, 11);
+   margin-left: 550px;
+   margin-right: 550px ;
+    color: rgb(155, 18, 241);
+    
+}
+h2{
+
+    color: rgb(155, 18, 241);
+    font-size: 1.5rem;
+}
+.con{
+   color: rgb(255, 74, 9);
+   
+}
+table, th,td{
+  border: 2px solid black;
+  color: rgb(246, 24, 9);
+}
+.foot ul {
+  color: rgb(246,24,9);
+}
+#cob{
+    color: rgb(246, 24, 9);
+}
+.pd{
+    color: rgb(246, 24, 9);
+}
